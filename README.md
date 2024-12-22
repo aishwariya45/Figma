@@ -191,10 +191,12 @@ HTML
 ```
 # OUTPUT:
 ![Screenshot (11)](https://github.com/user-attachments/assets/0d55eb89-a285-4366-91f4-337f62224241)
-![Screenshot (7)](https://github.com/user-attachments/assets/b471000b-a94d-4390-b584-06bc8cbd272c)
+![Screenshot (7)](https://github.com/user-attachments/assets/bd4c33ca-4179-487d-80dd-06e9115a084c)
 
+![Screenshot (8)](https://github.com/user-attachments/assets/1e2cf736-ffee-40f9-827d-fd675f560366)
 
-
+![Screenshot (9)](https://github.com/user-attachments/assets/2406eadb-2e9b-43b6-a2bf-7231b8db02c5)
+![Screenshot (12)](https://github.com/user-attachments/assets/b70a9a0c-f948-475c-ab2d-c7d23b2ca573)
 
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
